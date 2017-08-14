@@ -1,2 +1,2 @@
-# html-video-playlist
-Create a video playlist using with CSS and jQuery
+# HTML Video Playlist
+A simple video playlist without any video player plugin. Just using CSS and jQuery / Javascript. 
